@@ -1,0 +1,10 @@
+.nav-container{
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  color: white; 
+}
+
+.word-link{
+  cursor: pointer;
+}
